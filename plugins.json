@@ -1204,7 +1204,8 @@
 		"configName": "SkyChanger",
 		"requiredRank": "platinum"
 	},
-    {
+	{
+    
         "name": "TARDIS",
         "desc": "Lets your players own a\nTARDIS from Doctor Who!\n&cRequires &nTARDIS Chunk Generator&c.",
         "jarName": "TARDIS.jar",
@@ -1232,5 +1233,9 @@
         "jarName": "ChatFeelings.jar",
         "configName": "ChatFeelings",
         "freePlugin": true
-    }
-]
+    },
+    {
+	"name": "BanHammer"
+	 "Desc:" "Allows players to open a menu with a list of reasons (great for begginers)
+	 "JarNamer": " ban-hammer-2.4.0-shaded.jar"
+	 "configname": "BanHammer"
